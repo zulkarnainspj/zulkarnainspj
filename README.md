@@ -22,7 +22,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/zulkarnainspj/zulkarnainspj/output/snake.svg" alt="Snake animation" />
-
-###
